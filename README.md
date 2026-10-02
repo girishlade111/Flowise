@@ -235,3 +235,11 @@ See [Contributing Guide](CONTRIBUTING.md). Reach out to us at [Discord](https://
 ## 📄 License
 
 Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+
+---
+
+## Repo maintenance
+
+This copy of Flowise is maintained on GitHub by Girish Lade. For the upstream project, see [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise).
+
+Built by [Girish Lade](https://ladestack.in)
